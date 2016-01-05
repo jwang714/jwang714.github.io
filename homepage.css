@@ -1,0 +1,65 @@
+#icon {
+
+	height: auto;
+	width: auto;
+	max-width: 220px;
+	max-height: 240px;
+	border-radius: 50px;
+	margin: 30px 10px 10px 50px;
+	float: left;
+}
+
+#links {
+	list-style-type: none;
+	float: right;
+	padding-top: 40px;
+	padding-right: 85px;
+	border-bottom: solid;
+	border-width: 1px;
+	display: inline-block;
+
+}
+
+
+
+.fa {
+	font-size: 35px;
+	text-decoration: none;
+
+}
+
+a {
+	color: black;
+}
+
+a:visited {
+	text-decoration: none;
+}
+
+a:hover {
+	color: #ff66ff;
+}
+
+.nav ul li {
+	display: inline-block;
+	padding: 50px;
+}
+
+.sidebar ul li {
+	list-style: none;
+	clear: left;
+	font-size: 20px;
+	padding-top: 20px;
+	padding-left: 40px;
+	font-family: Helvetica, Arial, Sans-Serif;
+	text-transform: uppercase;
+}
+
+.sidebar ul li a {
+	text-decoration: none;
+	font-weight: bold;
+}
+
+
+
+

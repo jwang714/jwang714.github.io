@@ -52,9 +52,8 @@ a:hover {
 	clear: left;
 	font-size: 25px;
 	padding-left: 20px;
-	font-family: Helvetica;
+	font-family: Helvetica, Arial, Sans-Serif;
 	text-transform: uppercase;
-
 }
 
 
@@ -66,7 +65,4 @@ a:hover {
 
 .sidebar ul li:first-child {
 	padding-top: 30px;
-
-}
-
 
